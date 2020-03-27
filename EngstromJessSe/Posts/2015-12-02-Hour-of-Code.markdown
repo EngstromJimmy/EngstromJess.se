@@ -1,0 +1,10 @@
+---
+layout: post
+title: Hour of Code
+date: 2015-12-02 15:36:00
+categories: []
+author: jessica engström
+tags: [Development,Hackathon]
+hide: false
+---
+<p>Code.org is the non-profit organization behind the initiative to show that anybody can learn the basics of computer science, and give every student at least one Hour of Code.</p> <p>One-hour tutorials are available in over 40 languages and is suitable for all ages.<br>The global movement reaches tens of millions of students in over 180 countries.</p> <p>It's free to join in, both as a student and as an organizer.<br>Last time I checked there were 162 748 Hour of Code events planned around the world.</p> <p><a href="/PostImages/HourOfCode_logo_RGBJPG_1.jpg"><img title="HOC_logotype" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="HOC_logotype" src="/PostImages/HourOfCode_logo_RGBJPG_thumb_1.jpg" width="240" height="240"></a></p> <p>The main event takes place during December 7-13, but anyone can host an Hour of Code anytime and anywhere. They've chosen that date because it coincides with <a href="http://csedweek.org/" target="_blank">Computer Science Education Week</a>.</p> <p>You can find the tutorials <a href="https://uk.code.org/learn" target="_blank">here</a>. They are clearly marked with suggested age categories, and all have different themes. For the younger students there are for example Star Wars, Minecraft and Frozen to choose from.<br>There are also a number of partner tutorials ranging from javascript and scratch to python and TouchDevelop.</p> <p>Don't have devices or internet at your school or usergroup? No problem, they have even thought of that with their series of unplugged computer science material.<br>The suggested age range is 4-104 years.</p> <p>I think it's a fantastic initiative, and our usergroup <a href="http://www.codingafterwork.com" target="_blank">Coding After Work</a> is naturally participating.</p>

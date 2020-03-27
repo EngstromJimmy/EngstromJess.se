@@ -1,0 +1,10 @@
+---
+layout: post
+title: Mango release celebration sale
+date: 2011-09-30 19:29:00
+categories: [Geek,Other]
+author: Jessica Engström
+tags: [Windows-Phone]
+hide: false
+---
+<p>To celebrate the release of Windows Phone Mango I’m having a sale.</p> <p>All pouches is 50% off and free shipping, that’s how much I like Mango!</p> <p>&nbsp;</p> <p>You can read more about the bags <a href="http://www.catoholic.se/post/Windows-Phone-7-Pouch-part-2.aspx">here</a></p> <p>&nbsp;</p> <p><a href="/PostImages/BagSale.png"><img title="BagSale" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="BagSale" src="/PostImages/BagSale_thumb.png" width="544" height="486"></a></p> <p><font size="1">Phones not included</font> <img class="wlEmoticon wlEmoticon-smilewithtongueout" style="border-top-style: none; border-bottom-style: none; border-right-style: none; border-left-style: none" alt="Smile with tongue out" src="/PostImages/wlEmoticon-smilewithtongueout.png"></p> <p>&nbsp;</p> <p>The bag fits most WP7 but not the largest ones like the HTC HD7, it will however fit a Samsung Omnia 7 just fine, which measures 4.82 x 2.53 x 0.43 (122.4 x 64.2 x 11 mm). So Samsung Focus shouldn’t be a problem (differs 1mm or so)</p> <p>&nbsp;</p> <p>I have tried it myself with Samsung Omnia 7, LG Optimus 7 (LG E900) and HTC Mozart (and an ipod <img class="wlEmoticon wlEmoticon-smilewithtongueout" style="border-top-style: none; border-bottom-style: none; border-right-style: none; border-left-style: none" alt="Smile with tongue out" src="/PostImages/wlEmoticon-smilewithtongueout.png">)</p> <p>&nbsp;</p> <p><iframe src="\paypal50.htm" frameborder="no"></iframe></p> <p>&nbsp;</p> <p>You can contact me on twitter @grytlappen or <a href="mailto:jessica@catoholic.se">email </a>for any questions or orders <br>The pouches can also be bought through the <a href="http://www.elapid.se/">Swedish shop Elapid </a>(only in Swedish)</p>

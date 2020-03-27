@@ -1,0 +1,10 @@
+---
+layout: post
+title: PI day + Ie9 release = PIe9 day?
+date: 2011-03-14 23:42:00
+categories: [Cake-and-bake,Geek]
+author: Jessica Engström
+tags: [Cake]
+hide: false
+---
+<p>The IE 9 release just happens to fall on PI day and that must be a reason for having cupcakes.<br>To celebrate the big event I made some mini cupcakes today.</p> <p><br><a href="/PostImages/pie9.png"><img title="pIE9" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: left; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="pIE9" src="/PostImages/pie9_thumb.png" width="254" align="right" height="351"></a></p> <p><a href="/PostImages/pie2_1.png"><img title="pIE9" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: right; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="pIE9" src="/PostImages/pie2_thumb_1.png" width="294" align="left" height="260"></a></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>It's a lemon cupcake with a lemon flavored Swiss merengue buttercream, dark chocolate PI's and sugarpaste IE icons. <br><br>Now we at least have something to eat while waiting for the IE 9 release.</p>

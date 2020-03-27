@@ -1,0 +1,10 @@
+---
+layout: post
+title: //Build - registration and Xamarin Party
+date: 2013-06-26 07:37:07
+categories: [Other]
+author: Jessica Engström
+tags: [Conference]
+hide: false
+---
+<p><a href="/PostImages/WP_20130625_008.jpg"><img title="WP_20130625_008" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="WP_20130625_008" src="/PostImages/WP_20130625_008_thumb.jpg" width="544" height="308"></a></p> <p>Tomorrow build starts and today you could register for it <img class="wlEmoticon wlEmoticon-smile" style="border-top-style: none; border-bottom-style: none; border-right-style: none; border-left-style: none" alt="Smile" src="/PostImages/wlEmoticon-smile_3.png"> <br>We arrived a little over an hour after they opened the doors and there were no lines to speak of. <br>You could even self register with a barcode <img class="wlEmoticon wlEmoticon-smile" style="border-top-style: none; border-bottom-style: none; border-right-style: none; border-left-style: none" alt="Smile" src="/PostImages/wlEmoticon-smile_3.png"></p> <p><br>We got the badge, a T-shirt and the program and we were on our way. <br><br>After that we went to a Swede meet up, we are over 100 Swedes at build which is a lot for such a small country. <br>We had a nice couple of hours at the Press Club and later headed over to the hackathon briefing. <br>Me and jess signed up as a team to make a windows phone app. <br>After that we went to the Xamarin welcome party, if you have followed #bldwin at twitter you know that basically everyone is going <img class="wlEmoticon wlEmoticon-smilewithtongueout" style="border-top-style: none; border-bottom-style: none; border-right-style: none; border-left-style: none" alt="Smile with tongue out" src="/PostImages/wlEmoticon-smilewithtongueout_4.png"> <br>We got a cute monkey and and a T-shirt</p> <p><br>Now it’s time for some planning, need to decide what sessions to attend!</p>

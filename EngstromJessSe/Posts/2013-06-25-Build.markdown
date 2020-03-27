@@ -1,0 +1,10 @@
+---
+layout: post
+title: //Build – recap and expectations
+date: 2013-06-25 17:05:34
+categories: [Other]
+author: Jessica Engström
+tags: [Conference]
+hide: false
+---
+<p>Last year me and my husband had the chance to go to the Build conference. <br>When we realized that it was going to be held in Redmond we both said that we should go, when we found out it was on Microsoft campus it was no longer a choice, we HAD to go <img class="wlEmoticon wlEmoticon-smile" style="border-top-style: none; border-bottom-style: none; border-right-style: none; border-left-style: none" alt="Smile" src="/PostImages/wlEmoticon-smile_2.png"></p> <p>&nbsp;</p> <p>This year we decided to go as well, since we both are geeks/nerds (pick one, or both perhaps) we don’t go to Thailand or grand canaria etc, THIS is our kind of vacation, THIS is what we save our vacation money towards. <br><br>So what was so great about last years conference?</p> <p>well, almost everything from sessions to interviews and meeting fellow geeks. <br>Some of the highlights for me was to see Scott Hanselman live. He is a great presenter. And of course to see Steve Ballmer on stage too. <br><br><br>The sessions I remember most is <a href="http://channel9.msdn.com/Events/Build/2012/2-118" target="_blank">Tips on self-evaluating the UX f your app</a>, <a href="http://channel9.msdn.com/Events/Build/2012/3-028" target="_blank">Bleeding edge ASP.NET: See what is next for MVC, Web API, SignalR and more</a> and perhaps <a href="http://channel9.msdn.com/Events/Build/2012/3-050" target="_blank">Windows Phone 8: Using the speech API</a> speech is cool (and so are bow ties) and under appreciated if you ask me <img class="wlEmoticon wlEmoticon-smile" style="border-top-style: none; border-bottom-style: none; border-right-style: none; border-left-style: none" alt="Smile" src="/PostImages/wlEmoticon-smile_2.png"> <br><br><br>We still don’t know what the sessions will hold for this year, but I have high hopes. <br>I especially want to know about Windows 8.1, Windows phone, UX and the Xbox One. </p>
