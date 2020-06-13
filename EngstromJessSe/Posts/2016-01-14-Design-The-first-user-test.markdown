@@ -11,7 +11,6 @@ Here are some resources from the session I held at NDC London today.
 
 
 
-
 <p style="line-height: 90%; margin-top: 10pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;">&nbsp;</p>
 <h2 style="margin-top: 10pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="line-height: 9px;">Color resources</span></h2>
 <p style="margin-top: 10pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><a title="Color.Adobe" href="https://color.adobe.com/" target="_blank"><span style="line-height: 9px;">Color.adobe</span></a></p>
