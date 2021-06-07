@@ -372,7 +372,7 @@
     <None Update="Posts\Old Posts\2016-01-14-Design-The-first-user-test.markdown">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Posts\apa.md">
+    <None Update="Posts\Old Posts\apa.md">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="Posts\Index.md">
