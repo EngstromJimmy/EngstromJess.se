@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starting fresh
+title: Starting afresh
 date: 2021-06-09 00:00:00
 author: Jessica Engström
 tags: []
@@ -20,7 +20,7 @@ I've been absent from social media, blogging and the public life for a while for
 
 I had a close friend turn into a full-on stalker, which threw me for a loop mentally. Not only from the actual inappropriate behavior and stalking, but also because I didn't see it, I made excuses for him. 
 
-Why didn't I see the signs so I could have prevented it? I have put so much blame on myself for his behavior. We lived with the curtains closed for over a year and I stopped all social and sharing services I could think of. I didn't feel safe talking the frequent walks I used to, since he knows what areas I usually go to and I was not up for meeting hem "accidentally" in the woods.
+Why didn't I see the signs so I could have prevented it? I have put so much blame on myself for his behavior. We lived with the curtains closed for over a year and I stopped all social and sharing services I could think of. I didn't feel safe talking the frequent walks I used to, since he knows what areas I usually go to and I was not up for meeting him "accidentally" in the woods.
 
 
 I stopped keeping in contact with people because of my anxiety and shame, and because I was scared that someone would unknowingly tell him where I was, what I was doing or how I was doing.
