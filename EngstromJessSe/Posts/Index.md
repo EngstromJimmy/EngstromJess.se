@@ -6,6 +6,6 @@ hide: false
 page: true
 ---
 
-<img src="/Images/CartoonJessica.png" height="300" class="center" />
+<img src="/Images/JessProfile_400x400.jpg" height="300" class="center" />
 
 
