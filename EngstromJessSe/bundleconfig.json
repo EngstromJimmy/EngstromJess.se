@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "wwwroot/css/StyleSheet.min.css",
+    "inputFiles": [
+      "wwwroot/css/StyleSheet.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/BlogStyleSheet.min.css",
+    "inputFiles": [
+      "wwwroot/css/BlogStyleSheet.css"
+    ]
+  }
+]

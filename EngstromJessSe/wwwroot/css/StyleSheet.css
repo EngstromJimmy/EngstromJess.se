@@ -41,6 +41,9 @@
 *::after {
   box-sizing: border-box; }
 
+.author {
+    font-size: 10px;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -108,8 +111,6 @@ dd {
   margin-bottom: .5rem;
   margin-left: 0; }
 
-blockquote {
-  margin: 0 0 1rem; }
 
 b,
 strong {
@@ -303,22 +304,22 @@ h1, h2, h3, h4, h5, h6,
   line-height: 1.2; }
 
 h1, .h1 {
-  font-size: 2.5rem; }
-
-h2, .h2 {
-  font-size: 2rem; }
-
-h3, .h3 {
   font-size: 1.75rem; }
 
-h4, .h4 {
+h2, .h2 {
   font-size: 1.5rem; }
 
-h5, .h5 {
+h3, .h3 {
   font-size: 1.25rem; }
 
-h6, .h6 {
+h4, .h4 {
   font-size: 1rem; }
+
+h5, .h5 {
+  font-size: 0.75rem; }
+
+h6, .h6 {
+  font-size: 0.5rem; }
 
 .lead {
   font-size: 1.25rem;
@@ -377,9 +378,6 @@ mark,
   font-size: 90%;
   text-transform: uppercase; }
 
-.blockquote {
-  margin-bottom: 1rem;
-  font-size: 1.25rem; }
 
 .blockquote-footer {
   display: block;
@@ -7133,12 +7131,19 @@ a.text-dark:hover, a.text-dark:focus {
     content: " (" attr(title) ")"; }
   pre {
     white-space: pre-wrap !important; }
-  pre,
-  blockquote {
-    border: 1px solid #adb5bd;
-    page-break-inside: avoid; }
+    pre,
+    blockquote {
+        /*border: 1px solid #adb5bd;*/
+        color: gold;
+        /*page-break-inside: avoid;*/
+        border-left-style: solid;
+        border-left-width: 15px;
+        border-block-color:aqua;
+    }
+
   thead {
     display: table-header-group; }
+
   tr,
   img {
     page-break-inside: avoid; }

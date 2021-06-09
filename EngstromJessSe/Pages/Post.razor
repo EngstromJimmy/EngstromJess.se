@@ -23,9 +23,9 @@
 @inject BlogService blogService
 
 <h1>@((MarkupString)post.Title)</h1>
-@post.Date.ToString("yyyy-MM-dd")
+<div class="author">@post.Date.ToString("yyyy-MM-dd")
 <text> by </text>
-@post.Author
+@post.Author</div>
 
 @if (!string.IsNullOrEmpty(post.Image))
 {
