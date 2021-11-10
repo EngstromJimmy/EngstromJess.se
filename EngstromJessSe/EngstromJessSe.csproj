@@ -212,6 +212,12 @@
     <None Update="config.yaml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="Posts\2021-11-10-DotNETConf.markdown">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Posts\2021-06-17-Teaching-is-Awesome.markdown">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="Posts\2021-06-09-Starting-fresh.markdown">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
