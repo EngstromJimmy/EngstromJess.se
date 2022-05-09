@@ -4,7 +4,7 @@ title: Lego for .NET Frontend Day 2022
 date: 2022-02-03 00:00:00
 author: Jessica Engström
 tags: []
-hide: true
+hide: false
 ---
 Last year, our good friend [Daniel Hindrikes](https://twitter.com/hindrikes), my husband Jimmy and I started [.NET Frontend Day](https://dotnet-frontend.com/). A free, full day of .NET frontend goodness. It was a huge success.
 But without speakers and sponsors we wouldn't be anything.  
