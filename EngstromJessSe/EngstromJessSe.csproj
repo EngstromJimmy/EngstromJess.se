@@ -221,6 +221,15 @@
     <None Update="Posts\2021-06-09-Starting-fresh.markdown">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="Posts\2022-02-03-Lego-for-DotNETFrontendDay-2021.markdown">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Posts\2022-04-05-Lego-for-DotNETFrontendDay-2022.markdown">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Posts\2022-05-11-NDC London Resources.markdown">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="Posts\Old Posts\2011-02-06-Annoying-Orange-Cake.markdown">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
