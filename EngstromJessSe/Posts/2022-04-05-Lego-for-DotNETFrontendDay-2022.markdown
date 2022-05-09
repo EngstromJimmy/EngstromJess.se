@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lego for .NET Frontend Day 2022
-date: 2022-02-03 00:00:00
+date: 2022-02-04 00:00:00
 author: Jessica Engström
 tags: []
 hide: false
