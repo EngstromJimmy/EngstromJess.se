@@ -22,7 +22,7 @@ Beatles was the one with most skin color options, and for colors we got a Marily
 
 ## Making the kits
 
-When [Jimmy](http://engstromjimmy.com/) Took the 8-bit images and worked some Lego-software magic to get the instructions we got hit with the realization that all Lego parts doesn't come in all Lego colors. So we had to do some more research and some switching of colors. You may now call me Lego dots color specialist! :laughing:
+When [Jimmy](http://engstromjimmy.com/) Took the 8-bit images and worked some Lego-software magic to get the instructions we got hit with the realization that all Lego parts doesn't come in all Lego colors. So we had to do some more research and some switching of colors. You may now call me Lego dots color specialist! :laughing:  
 ![A bunch of small color sorted containers with Lego dots, a scale, numbered stickers and Lego instructions on a laptop](/PostImages/2022/OverviewSmall.jpg "Packing Lego")  
 The amount of pieces we packed made me dream of dots for days. We packed 403 bags with 13244 pieces in total!
 ![Packed bags of Lego kits, a stack of Lego plates and 2 built sponsor logos](/PostImages/2022/PackingSmall.jpg "Packed bags of Lego kits, a stack of Lego plates and 2 built sponsor logos")  
