@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resources from NDC London
+title: Resources from NDC London 2022
 date: 2022-05-11 00:00:00
 author: Jessica Engström
 tags: []
@@ -14,7 +14,7 @@ The two other sessions with similar examples, but also other UX examples not sho
 
 [On .NET Live](https://www.youtube.com/watch?v=elktRChdHJw&t=280s)
 
-## Accessibility
+## Accessibility 
 [WebAIM](https://webaim.org/)
 
 [WebAIM's project million](https://webaim.org/projects/million/)
@@ -29,8 +29,6 @@ The two other sessions with similar examples, but also other UX examples not sho
 [Adobe's color tool](http://color.adobe.com/)
 
 [Contrast & Accessibility checker by Experte](https://www.experte.com/accessibility/contrast)
-
-[Labeling Controls](https://www.w3.org/WAI/tutorials/forms/labels/)
 
 
 ## Alternative Text
